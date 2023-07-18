@@ -88,7 +88,7 @@ with mlflow.start_run():
 ```
 python3 train.py
 ```
-###### You can Run 'train.py' again and again just by changing values of paramter 'n_estimators' and 'max_depth':
+###### You can Run 'train.py' again and again just by changing values of paramter 'n_estimators' and 'max_depth' and see if we get lower mse(Mean Square Error):
 
 ###### Then can see that Experiments are logs in MLFLow and artifacts are store is S3 Bucktes.
 
