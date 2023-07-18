@@ -4,7 +4,7 @@
 
 ###### Create Virtual Environment:
 ```
-conda create --name mlflow_tutorial
+conda create -n mlflow_tutorial python=3.8 -y
 ```
 ###### Activate Virual Environment:
 ```
